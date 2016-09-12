@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Angular2-Getting Started
 Materials for the "Angular 2: Getting Started" course on Pluralsight.
 
@@ -18,3 +19,6 @@ If that does not resolve your issue, please post to the [discussion board for th
 <b>NOTE: We are currently discussing the appropriate time to update the course to the current Angular version.</b>
 
 NOTE: The installation was tested using node v5.0.0 and npm 3.8.6.
+=======
+# angular2-test
+>>>>>>> e83a25f26bff347863d7e494158df54bc4c29af1
